@@ -1,5 +1,5 @@
 # PermissionsHandler
-Permission handler class for Android applications 
+PermissionsHandler utility class used for handling permissions in an Android application
 
 The provided class is a PermissionsHandler utility class used for handling permissions in an Android application. Its purpose is to simplify the process of requesting and managing runtime permissions required by the app.
 
